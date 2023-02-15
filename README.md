@@ -16,8 +16,9 @@ https://qingyun.io/#/login
 https://www.gw-yundong.com/#/login
 ### 2.4 觅云
 https://www.miyun.la/login
-
-### 三、clash免费节点
+### 2.5 桔子云
+https://juzicloud.org
+## 三、clash免费节点
 2023/02/14：https://freenode.me/wp-content/uploads/2023/02/02146.yaml
 
 
