@@ -19,7 +19,7 @@ https://www.miyun.la/login
 ### 2.5 桔子云
 https://juzicloud.org
 ## 三、clash免费节点
-2023/02/14：https://freenode.me/wp-content/uploads/2023/02/02146.yaml
-
+ - 2023/02/14：https://freenode.me/wp-content/uploads/2023/02/02146.yaml
+ - 2023/02/15: https://v2rayshare.com/wp-content/uploads/2023/02/20230215.yaml
 
 注：随缘更
