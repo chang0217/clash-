@@ -22,4 +22,11 @@ https://www.miyun.la/login
  - 2023/02/15: https://v2rayshare.com/wp-content/uploads/2023/02/20230215.yaml
  - 2023/02/17: https://clashnode.com/wp-content/uploads/2023/02/20230217.yaml
 
+## 四、使用体验（仅本人）
+1. 年前用过Wgetcloud，39元/月，网络延迟在100ms左右，总体很稳定，极少出现节点不能用的情况
+2. 年初开了个轻云，29元/季，网络延迟在800ms左右，能用，但是经常掉。
+3. 过了一个多月，换了GW云洞，10元/月，网络延迟在200ms-300ms左右，很少掉。
+
+小结：**想要稳定，还是要选贵的套餐**
+
 注：随缘更
