@@ -16,6 +16,8 @@ https://qingyun.io/#/login
 https://www.gw-yundong.com/#/login
 ### 2.4 觅云
 https://www.miyun.la/login
+### 2.5 Hneko云
+https://hneko.xyz/
 
 ## 三、clash免费节点
  - 2023/02/14：https://freenode.me/wp-content/uploads/2023/02/02146.yaml
@@ -28,6 +30,7 @@ https://www.miyun.la/login
 1. 年前用过Wgetcloud，39元/月，网络延迟在100ms左右，总体很稳定，极少出现节点不能用的情况
 2. 年初开了个轻云，29元/季，网络延迟在800ms左右，能用，但是经常掉。
 3. 过了一个多月，换了GW云洞，10元/月，网络延迟在200ms-400ms左右，很少掉。
+4. 二月底尝试了下Hneko云，7元/月或者15/年，网络延迟在200ms-2000ms左右，部分节点不能用。
 
 小结：**想要稳定，还是要选贵的套餐**
 
