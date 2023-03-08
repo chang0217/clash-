@@ -27,6 +27,7 @@ https://hneko.site/
  - 2023/02/20: https://clashnode.com/wp-content/uploads/2023/02/20230220.yaml
  - 2023/02/21: https://clashnode.com/wp-content/uploads/2023/02/20230221.yaml
  - 2023/03/03: https://clashnode.com/wp-content/uploads/2023/03/20230303.yaml
+ - 2023/03/08: https://clashnode.com/wp-content/uploads/2023/03/20230308.yaml
  
 ## 四、限期免费
 1. 在某个机场四块买的一个月的订阅节点，实测只有两三个节点可用，网速，一言难尽......送给大家了。有效期到2023/04/05
