@@ -22,20 +22,12 @@ https://hneko.site/
 https://xn--30rs3bu7r87f.com/
 
 ## 三、clash免费节点
- - 2023/02/14：https://freenode.me/wp-content/uploads/2023/02/02146.yaml
- - 2023/02/15: https://v2rayshare.com/wp-content/uploads/2023/02/20230215.yaml
- - 2023/02/17: https://clashnode.com/wp-content/uploads/2023/02/20230217.yaml
- - 2023/02/18: https://v2rayshare.com/wp-content/uploads/2023/02/20230218.yaml
- - 2023/02/20: https://clashnode.com/wp-content/uploads/2023/02/20230220.yaml
- - 2023/02/21: https://clashnode.com/wp-content/uploads/2023/02/20230221.yaml
- - 2023/03/03: https://clashnode.com/wp-content/uploads/2023/03/20230303.yaml
- - 2023/03/08: https://clashnode.com/wp-content/uploads/2023/03/20230308.yaml
+ - 空
+
+## 四、限时免费
+ - 空
+ - 100G流量一天就给我干没了，我也是无语
  
-## 四、限期免费
-1. 在某个机场四块买的一个月的订阅节点，实测只有两三个节点可用，网速，一言难尽......送给大家了。有效期到2023/04/05
-- https://yq.lhyzyq.top/api/v1/client/subscribe?token=d0d32932d86eac06cccaa4eb96d3b2af
-2. 年初买的轻云机场节点，网速还可以，现在好多了，现在订阅的付费节点也不少，这个也不经常用也送给大家了，有效期到2023/04/07
-- https://qingyun.today/api/v1/client/subscribe?token=66e28c872d559200754c7fb7a0b4739a
 ## 五、使用体验（仅本人）
 1. 年前用过Wgetcloud，39元/月，网络延迟在100ms左右，总体很稳定，极少出现节点不能用的情况
 2. 年初开了个轻云，29元/季，网络延迟在800ms左右，能用，但是经常掉。
