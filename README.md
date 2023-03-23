@@ -27,6 +27,7 @@ https://xn--30rs3bu7r87f.com/
 ## 四、限时免费
  - 空
  - 100G流量一天就给我干没了，我也是无语
+ - https://sub.misakano.ml/api/v1/client/subscribe?token=41b5a09cbdf60bd350a81a95fd8bf7db  时间到2023/4/23
  
 ## 五、使用体验（仅本人）
 1. 年前用过Wgetcloud，39元/月，网络延迟在100ms左右，总体很稳定，极少出现节点不能用的情况
