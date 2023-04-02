@@ -37,7 +37,7 @@ https://xn--30rs3bu7r87f.com/
   - 安装v2rayN客户端：https://github.com/2dust/v2rayN/releases
   - 导入节点
   
-  附：觉得买的节点不稳定，不妨试着自己搭一个试试，价格比买节点花的钱略多一些
+  附：觉得买的节点不稳定，不妨试着自己搭一个，价格比买节点花的钱略多一些
  ## 六、v2ray节点转clash
  网站1：https://acl4ssr-sub.github.io
 
