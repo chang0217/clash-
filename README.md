@@ -34,6 +34,7 @@ https://xn--30rs3bu7r87f.com/
   - 买vps地址：https://www.raksmart.com/
   - 服务器连接工具finalshell：https://www.hostbuf.com/t/988.html
   - 安装v2ray服务器代码：bash <(curl -s -L https://git.io/v2ray-setup.sh)
+  - 另一个代码：bash <(curl -s -L https://raw.githubusercontent.com/xyz690/v2ray/master/onestep.sh)  需要搭配域名解析使用
   - 安装v2rayN客户端：https://github.com/2dust/v2rayN/releases
   - 导入节点
   
