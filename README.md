@@ -23,6 +23,7 @@ https://xn--30rs3bu7r87f.com/
 
 ## 三、clash免费节点
  - https://clashnode.com/wp-content/uploads/2023/04/20230402.yaml --2023.4.2
+ - https://taistore4g.com/api/v1/client/subscribe?token=15fbba1651c364e1d63707e1017e9bdf --2023.4.3
 
 ## 四、限时免费
  - https://xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=40c3d411fe745cc432d637b6c8535103,截至到4.6 --2023.4.2
