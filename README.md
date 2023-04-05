@@ -23,8 +23,11 @@ https://xn--30rs3bu7r87f.com/
 
 ## 三、公益机场
 - https://dash.legeth.com 白嫖码：legeth --2023.4.5
+- https://www.liangqiqi.com --2023.4.5
 
 一次性接码平台：https://temp-mail.io/zh
+
+注：因为是公益机场，这里就不对网速和节点进行评价了，白嫖有白嫖的快乐不是吗？
 
 ## 四、clash免费节点
  - https://clashnode.com/wp-content/uploads/2023/04/20230402.yaml --2023.4.2
