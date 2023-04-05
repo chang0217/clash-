@@ -21,14 +21,19 @@ https://hneko.site/
 ### 2.6 慈善机场
 https://xn--30rs3bu7r87f.com/
 
-## 三、clash免费节点
+## 三、公益机场
+- https://dash.legeth.com 白嫖码：legeth --2023.4.5
+
+一次性接码平台：https://temp-mail.io/zh
+
+## 四、clash免费节点
  - https://clashnode.com/wp-content/uploads/2023/04/20230402.yaml --2023.4.2
  - https://openit-fq.ml/Clash.yaml --2023.4.3
 
-## 四、限时免费
+## 五、限时免费
  - https://xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=40c3d411fe745cc432d637b6c8535103,截至到4.6 --2023.4.2
  
- ## 五、自搭服务器
+ ## 六、自搭服务器
  这里我推荐一个视频：https://www.youtube.com/watch?v=QaCeQWfiC5E&t=56s
  
  大致流程就四步：买vps、连接服务器、安装v2rayN服务器、安装v2rayN客户端
@@ -40,10 +45,10 @@ https://xn--30rs3bu7r87f.com/
   - 导入节点
   
   附：觉得买的节点不稳定，不妨试着自己搭一个，价格比买节点花的钱略多一些,中间可能会遇到一些小坑，速度也不令人满意，不过还算一个不错的学习机会啦
- ## 六、v2ray节点转clash
+ ## 七、v2ray节点转clash
  网站1：https://acl4ssr-sub.github.io
 
-## 七、使用体验（仅本人）
+## 八、使用体验（仅本人）
 1. 年前用过Wgetcloud，39元/月，网络延迟在100ms左右，总体很稳定，极少出现节点不能用的情况
 2. 年初开了个轻云，29元/季，网络延迟在800ms左右，能用，但是经常掉。
 3. 过了一个多月，换了GW云洞，10元/月，网络延迟在200ms-400ms左右，很少掉。
