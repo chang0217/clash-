@@ -34,7 +34,7 @@ https://xn--30rs3bu7r87f.com/
  - https://openit-fq.ml/Clash.yaml --2023.4.3
 
 ## 五、限时免费
- - https://xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=40c3d411fe745cc432d637b6c8535103,截至到4.6 --2023.4.2
+ - https://suo.yt/hUQiqc6 到5月9号 --2023/4/11
  
  ## 六、自搭服务器
  这里我推荐一个视频：https://www.youtube.com/watch?v=QaCeQWfiC5E&t=56s
